@@ -19,11 +19,13 @@ I'm making a list of all the best free tools out there. Help me grow the list an
 * [Colors](#colors)
 * [Stock Videos](#stock-videos)
 * [Marketing Tools](#marketing-tools)
+  
 
 
 ## Analytics
 
-* [Keen](https://keen.io/) - Ship user-facing metrics in an afternoon, not months   
+* [Keen](https://keen.io/) - Ship user-facing metrics in an afternoon, not months
+* [Postzio](https://postzio.com/) - Social Media management tool
 * [Fabric](https://get.fabric.io/) - A platform that helps your mobile team build better apps, understand your users, and grow your business.   
 * [Mixpanel](https://mixpanel.com/) - User behavior analytics for product, marketing, and data teams.
 * [Segment](https://segment.com/) - Use Segment to collect, clean, and control your customer data.
